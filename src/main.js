@@ -18,7 +18,7 @@ Vue.use(VueAwesomeSwiper)
 new Vue({
   el: '#app',
   router,
-  store,                  //键与值一样 只需要写一个
+  store,                  
   components: { App },
   template: '<App/>'
 })
